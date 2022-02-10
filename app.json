@@ -6,8 +6,6 @@
     "UUID": {
        "description": "VMess client UUID",
        "value": "e684096f-62e8-455e-b865-b8326f430279"
-
-"
      }
   },
   "stack": "container",
