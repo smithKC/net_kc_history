@@ -1,6 +1,7 @@
 ## 一键部署 GFWwall 到 Heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 > 1. 部署时VMess协议的`UUID`默认`91cb66ba-a373-43a0-8169-33d4eeaeb857`,`alterId`为`64`。
+> 2. 项目部署vmess alterId为64不能犯经验主义错误
 
 > 2. 服务端部署后，应`open app`，显示`Bad Request`，表示部署成功。
 
