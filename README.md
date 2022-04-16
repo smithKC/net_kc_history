@@ -8,7 +8,7 @@
 
 ### 附加
 
-> 1. 一键部署 科学穿墙 到 [KubeSail](https://kubesail.com/template/kaixuan1115/v2ray-heroku/)。
+> 1. 一键部署 科学穿墙 到 [KubeSail](https://kubesail.com/template/angelleiShen/v2ray-heroku/)。
 
 ### 参考 
 *https://github.com/v2ray/v2ray-core*
